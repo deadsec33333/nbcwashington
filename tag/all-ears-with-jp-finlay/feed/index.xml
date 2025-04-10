@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:photo="http://www.pheed.com/pheed/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+
+	xmlns:nbc="https://www.nbcuniversal.com/"
+
+	>
+	<channel>
+		<title><![CDATA[Tag: All Ears with JP Finlay &#8211; NBC4 Washington]]></title>
+		<link>https://www.nbcwashington.com/all-ears-with-jp-finlay/</link>
+		<atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nbcwashington.com/all-ears-with-jp-finlay/" rel="self" type="application/rss+xml" />
+		<description><![CDATA[All Ears with JP Finlay]]></description>
+
+					<copyright>
+			Copyright 2025			</copyright>
+			<image>
+				<url>https://media.nbcwashington.com/2024/08/WRC_station_logo_light_cba741.png?fit=280%2C58&#038;quality=85&#038;strip=all</url>
+				<title>NBC4 Washington</title>
+				<link>https://www.nbcwashington.com</link>
+			</image>
+			<language>en_US</language>
+			<pubDate>Thu, 10 Apr 2025 08:15:30 -0400</pubDate>
+			<lastBuildDate>Thu, 10 Apr 2025 08:15:30 -0400</lastBuildDate>
+			<generator>NBC Owned Television Stations</generator>
+		
+			</channel>
+</rss>
